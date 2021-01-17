@@ -1,6 +1,7 @@
 import numpy as np
 
 # conda install -c conda-forge matplotlib
+# sudo apt-get install python3-distutils
 import matplotlib.pyplot as plt
 
 
