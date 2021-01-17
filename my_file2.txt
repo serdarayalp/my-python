@@ -1,0 +1,4 @@
+1: Es muss darauf geachtet werden, dass die Datei-Objekte immer mit close() ordnungsgemäß geschlossen werden. 
+2: Man riskiert sonst, dass die Daten in der Datei nicht konsistent sind.
+3: Oft begegnet man dem with-Statement. 
+4: Dies hat den Vorteil, dass das im darauffolgenden Block verwendete Datei-Objekt automatisch geschlossen wird. 
